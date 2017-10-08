@@ -3,8 +3,8 @@ Arc-Simple-Dark
 *Arc Simple Dark* is a dark XFWM4/XFCE theme in the style of Arc-Dark. 
 
 Best with Arc-Dark GTK-Theme: 
-    - https://www.gnome-look.org/p/1181106/ 
-    - https://github.com/horst3180/arc-theme
+ * https://www.gnome-look.org/p/1181106/ 
+ * https://github.com/horst3180/arc-theme
 
 This theme is based on XFCE-Simple-Dark (https://github.com/trustable-code/Xfce-Simple-Dark)
 
